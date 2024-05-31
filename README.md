@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tirumali Sai Teja
 - 👀 Data Analyst with a good understanding of web development
-- 📫 How to reach me www.linkedin.com/in/sai-teja-tirumala
+- 📫 How to reach me https://www.linkedin.com/in/sai-teja-tirumala/
 
 <!---
 TirumaliSaiTeja/TirumaliSaiTeja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
